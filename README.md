@@ -8,7 +8,7 @@
 - 🌱 Currently diving deep into **JavaScript, System Design & Backend**  
 - 💡 Exploring: **React, Node.js, Express, MongoDB, Django**  
 - 📌 Building: **SocialEcho** (AI-driven Social Media) & **Plant Disease Detection** (AI/ML + Django)  
-- 📬 Reach me: **your_email@example.com**
+- 📬 Reach me: **ayushkatiyar827@gmail.com**
 
 ---
 
