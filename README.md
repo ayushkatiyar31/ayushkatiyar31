@@ -25,25 +25,10 @@
 - MongoDB, MySQL
 
 ### ☁️ Tools & Platforms
-- Git, GitHub, VS Code, Postman, Azure, Render, Netlify
+- Git, GitHub, VS Code,Render, Netlify
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 [SocialEcho](https://github.com/yourusername/SocialEcho)
-A social networking platform with AI-driven content moderation using NLP APIs.  
-**Tech:** MERN Stack, Flask, Azure, Perspective API, JWT, Redux
-
-### 🔹 [Tesla Website Clone](https://github.com/yourusername/Tesla-website)
-A responsive Tesla website clone built using React and Tailwind CSS.  
-**Tech:** React, Tailwind CSS
-
-### 🔹 [XKCD Comic Emailer](https://github.com/yourusername/xkcd-emailer)
-Automated daily email delivery of XKCD comics with email verification and CRON job.  
-**Tech:** PHP, MySQL, Cron Job
-
----
 
 ## 📈 GitHub Stats
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
