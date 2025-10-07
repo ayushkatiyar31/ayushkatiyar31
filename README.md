@@ -16,10 +16,10 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- C++, JavaScript, HTML, CSS, PHP
+- C++, JavaScript, HTML, CSS,
 
 ### ⚙️ Frameworks & Libraries
-- React.js, Node.js, Express.js, Django, Flask, Tailwind CSS, Redux
+- React.js, Node.js, Express.js, Tailwind CSS, Redux
 
 ### 🗄️ Databases
 - MongoDB, MySQL
