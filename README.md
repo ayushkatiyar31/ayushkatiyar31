@@ -29,14 +29,6 @@
 
 ---
 
-
-## 📈 GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-
 ## 🤝 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayush-katiyar-31888b256/)
 - 🌐 [Portfolio](https://your-portfolio-link.com)
