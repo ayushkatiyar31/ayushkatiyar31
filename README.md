@@ -1,80 +1,68 @@
-<h1 align="center">👋 Hey, I'm Ayush Katiyar</h1>
-<h3 align="center">Frontend Developer • MERN Stack Enthusiast • Problem Solver</h3>
+# 👋 Hi, I'm Ayush Katiyar
+
+🎓 **B.Tech CSE Student** | 💻 **Frontend & Full Stack Developer**  
+🚀 Passionate about building impactful and scalable web applications  
 
 ---
 
-## 🚀 Quick Intro  
-- 🎓 B.Tech CSE (3rd Year) @ **KIET Group of Institutions**  
-- 🌱 Currently diving deep into **JavaScript, System Design & Backend**  
-- 💡 Exploring: **React, Node.js, Express, MongoDB, Django**  
-- 📌 Building: **SocialEcho** (AI-driven Social Media) & **Plant Disease Detection** (AI/ML + Django)  
-- 📬 Reach me: **ayushkatiyar827@gmail.com**
+## 🌟 About Me
+- 🎯 Currently learning **MERN Stack & Advanced JavaScript**
+- 💡 Interested in **AI-powered web apps**, **Open Source**, and **Clean UI design**
+- 💬 Ask me about **React, Node.js, MongoDB, and Web Development**
+- ⚡ Fun fact: I love turning creative ideas into working web products!
 
 ---
 
-## ⚡ Tech Arsenal  
-<p align="center">
-  
-  **Languages**  
-  <img src="https://skillicons.dev/icons?i=cpp,js,python" />
+## 🛠️ Tech Stack
 
-  **Frontend**  
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind" />
+### 💻 Languages
+- C++, JavaScript, HTML, CSS, PHP
 
-  **Backend**  
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+### ⚙️ Frameworks & Libraries
+- React.js, Node.js, Express.js, Django, Flask, Tailwind CSS, Redux
 
-  **Databases**  
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+### 🗄️ Databases
+- MongoDB, MySQL
 
-  **Tools**  
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</p>
+### ☁️ Tools & Platforms
+- Git, GitHub, VS Code, Postman, Azure, Render, Netlify
 
 ---
 
-## 📊 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkatiyar31&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170px"/>
-  <img src="https://streak-stats.demolab.com/?user=ayushkatiyar31&theme=tokyonight&hide_border=true" height="170px"/>
-</p>
+## 📂 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkatiyar31&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" height="170px"/>
-</p>
+### 🔹 [SocialEcho](https://github.com/yourusername/SocialEcho)
+A social networking platform with AI-driven content moderation using NLP APIs.  
+**Tech:** MERN Stack, Flask, Azure, Perspective API, JWT, Redux
 
----
+### 🔹 [Tesla Website Clone](https://github.com/yourusername/Tesla-website)
+A responsive Tesla website clone built using React and Tailwind CSS.  
+**Tech:** React, Tailwind CSS
 
-## 🔥 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkatiyar31&theme=tokyo-night" />
-</p>
+### 🔹 [XKCD Comic Emailer](https://github.com/yourusername/xkcd-emailer)
+Automated daily email delivery of XKCD comics with email verification and CRON job.  
+**Tech:** PHP, MySQL, Cron Job
 
 ---
 
-## 🏗️ Featured Projects  
-
-| 🚀 Project | 📖 Description | 🛠️ Tech |
-|------------|---------------|----------|
-| [**SocialEcho**](https://github.com/ayushkatiyar31/SocialEcho) | Social media platform with AI moderation, roles & advanced security. | MERN, Flask, AI APIs |
-| [**Plant Disease Detection**](https://github.com/ayushkatiyar31/Plant-Disease-Detection) | AI/ML + DL-based tool to detect crop diseases. | Django, Python, ML/DL |
-| [**Nexus_javascript**](https://github.com/ayushkatiyar31/Nexus_javascript) | Collection of JS mini-projects for learning. | JavaScript, HTML, CSS |
-| [**Leetcode Interview Prep**](https://github.com/ayushkatiyar31/Leetcode_interview_prep) | DSA problems & solutions for interviews. | C++, DSA |
+## 📈 GitHub Stats
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-katiyar31/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://github.com/ayushkatiyar31"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="mailto:your_email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
+## 🏅 Certificates
+- **Cisco Networking Essentials**  
+- **Blockchain Fundamentals**  
+- **JavaScript for Web Development**
 
 ---
 
-## ✨ Fun Touch  
-> 💻 "Coding is not just about syntax, it’s about solving problems creatively."  
-> 🎧 I debug best at **midnight with music on**.  
+## 🤝 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
+- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 📧 **Email:** your.email@example.com
 
 ---
+
+⭐ **"Building modern web experiences, one project at a time!"**
