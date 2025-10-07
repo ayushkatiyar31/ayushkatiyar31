@@ -36,17 +36,11 @@
 
 ---
 
-## 🏅 Certificates
-- **Cisco Networking Essentials**  
-- **Blockchain Fundamentals**  
-- **JavaScript for Web Development**
-
----
 
 ## 🤝 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayush-katiyar-31888b256/)
 - 🌐 [Portfolio](https://your-portfolio-link.com)
-- 📧 **Email:** your.email@example.com
+- 📧 **Email:** ayushkatiyar827@gmail.com
 
 ---
 
