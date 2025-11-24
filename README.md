@@ -30,18 +30,17 @@
 ---
 
 
-
 ## 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushkatiyar31&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px" />
-
-  <img src="https://streak-stats.demolab.com/?user=ayushkatiyar31&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&cacheBust=10" height="180px" />
+  <img src="https://streak-stats.demolab.com?user=ayushkatiyar31&theme=radical&hide_border=true&v=1" height="180px" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkatiyar31&layout=compact&theme=radical&langs_count=8" height="180px" />
 </p>
+
 
 
 
