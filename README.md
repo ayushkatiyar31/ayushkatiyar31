@@ -35,9 +35,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushkatiyar31&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px" />
-  
-  <!-- Forced refresh streak stats -->
-  <img src="https://streak-stats.demolab.com/?user=ayushkatiyar31&theme=radical&hide_border=true&v=5" height="180px" />
+
+  <img src="https://streak-stats.demolab.com/?user=ayushkatiyar31&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&cacheBust=10" height="180px" />
 </p>
 
 <p align="center">
