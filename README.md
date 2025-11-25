@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushkatiyar31&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px" />
-  <img src="https://streak-stats.mrdemonwolf.com?user=ayushkatiyar31&theme=radical&hide_border=true" height="180px" />
+  <img src="https://streak-stats.demolab.com?user=ayushkatiyar31&theme=radical&hide_border=true" height="180px" />
 </p>
 
 <p align="center">
