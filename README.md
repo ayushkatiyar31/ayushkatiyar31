@@ -28,27 +28,16 @@
 - Git, GitHub, VS Code,Render, Netlify
 
 ---
-## 📈 GitHub Stats  
+ ## 📈 GitHub Stats  
 
 <p align="center">
-
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ayushkatiyar31&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=7200&v=1" height="180px" />
-
-  <!-- Streak Card -->
-  <img src="https://streak-stats.demolab.com?user=ayushkatiyar31&theme=radical&hide_border=true&cache_seconds=7200&v=1" height="180px" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushkatiyar31&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px" />
+  <img src="https://streak-stats.demolab.com?user=ayushkatiyar31&theme=radical&hide_border=true" height="180px" />
 </p>
 
 <p align="center">
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayushkatiyar31&layout=compact&theme=radical&langs_count=8&cache_seconds=7200&v=1" height="180px" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkatiyar31&layout=compact&theme=radical&langs_count=8" height="180px" />
 </p>
-
-
-
 
 
 
