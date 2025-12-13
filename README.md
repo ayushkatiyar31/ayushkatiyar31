@@ -28,10 +28,20 @@
 - Git, GitHub, VS Code,Render, Netlify
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushkatiyar31&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayushkatiyar31&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkatiyar31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushkatiyar31&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ayushkatiyar31&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkatiyar31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
 ---
 
 ## 🤝 Connect With Me
