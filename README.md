@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=Full+Stack+Developer+(MERN);Backend+Focused+Engineer;Building+Scalable+REST+APIs+%26+Real-time+Applications" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=Full+Stack+Developer+(MERN);Building+Scalable+Web+Applications;REST+APIs+%7C+Real-time+Systems+%7C+Secure+Architecture" 
   />
 </p>
 
@@ -14,11 +14,11 @@
 
 ## 🌟 About Me
 
-- 🚀 Backend-focused **Full Stack Developer (MERN Stack)**
-- 🔐 Experienced in **JWT Authentication & Role-Based Access Control (RBAC)**
+- 🚀 Full Stack Developer skilled in the **MERN Stack**
+- 🔐 Implemented secure **JWT Authentication & Role-Based Access Control (RBAC)**
 - ⚡ Built **real-time applications using WebSockets**
-- 🧠 Designed and optimized **RESTful APIs** with scalable architecture
-- 🗄️ Worked with **MongoDB, SQL & Redis** for efficient data handling
+- 🧠 Designed and optimized **RESTful APIs**
+- 🗄️ Worked with **MongoDB, SQL & Redis** for efficient data management
 - 💳 Integrated secure **Razorpay payment gateway**
 - 🎯 Passionate about building scalable, secure, and production-ready web applications
 
@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
 </p>
 
-### ⚙️ Frameworks & Backend Technologies
+### ⚙️ Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,tailwind" />
 </p>
@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
 </p>
 
-### 🔗 Backend & Integrations
+### 🔗 Architecture & Integrations
 - REST APIs  
 - WebSocket (Real-time Communication)  
 - JWT Authentication  
@@ -89,4 +89,4 @@
 
 ---
 
-<h3 align="center">⭐ Building scalable backend systems & modern web experiences ⭐</h3>
+<h3 align="center">⭐ Building scalable and modern web experiences ⭐</h3>
