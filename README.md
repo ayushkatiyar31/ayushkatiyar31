@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ayush Katiyar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=🎓+B.Tech+CSE+Student;💻+Frontend+%26+Full+Stack+Developer;🚀+ Passionate+about+building+impactful+and+scalable+web+applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=🎓+B.Tech+CSE+Student;💻+Frontend+%26+Full+Stack+Developer;🚀+Passionate+about+building+impactful+and+scalable+web+applications" />
 </p>
 
 <p align="center">
