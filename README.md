@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=B.Tech+CSE+Student;Frontend+%26+Full+Stack+Developer;Passionate+about+building+impactful+and+scalable+web+applications" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=Full+Stack+Developer+(MERN);Backend+Focused+Engineer;Building+Scalable+REST+APIs+%26+Real-time+Applications" 
   />
 </p>
 
@@ -14,10 +14,13 @@
 
 ## 🌟 About Me
 
-- 🎯 Currently learning **MERN Stack & Advanced JavaScript**
-- 💡 Interested in **AI-powered web apps**, **Open Source**, and **Clean UI design**
-- 💬 Ask me about **React, Node.js, MongoDB, and Web Development**
-- ⚡ Fun fact: I love turning creative ideas into working web products!
+- 🚀 Backend-focused **Full Stack Developer (MERN Stack)**
+- 🔐 Experienced in **JWT Authentication & Role-Based Access Control (RBAC)**
+- ⚡ Built **real-time applications using WebSockets**
+- 🧠 Designed and optimized **RESTful APIs** with scalable architecture
+- 🗄️ Worked with **MongoDB, SQL & Redis** for efficient data handling
+- 💳 Integrated secure **Razorpay payment gateway**
+- 🎯 Passionate about building scalable, secure, and production-ready web applications
 
 ---
 
@@ -28,17 +31,24 @@
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Backend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,tailwind" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Caching
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
 </p>
 
-### ☁️ Tools & Platforms
+### 🔗 Backend & Integrations
+- REST APIs  
+- WebSocket (Real-time Communication)  
+- JWT Authentication  
+- RBAC Authorization  
+- Razorpay Integration  
+
+### ☁️ Tools & Deployment
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
@@ -63,7 +73,7 @@
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-katiyar-31888b256/">
@@ -79,4 +89,4 @@
 
 ---
 
-<h3 align="center">⭐ "Building modern web experiences, one project at a time!" ⭐</h3>
+<h3 align="center">⭐ Building scalable backend systems & modern web experiences ⭐</h3>
