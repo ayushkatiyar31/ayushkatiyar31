@@ -31,9 +31,9 @@
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+#### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,redux" />
 </p>
 
 ### 🗄️ Databases & Caching
@@ -41,12 +41,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
 </p>
 
-### 🔗 Architecture & Integrations
-- REST APIs  
-- WebSocket (Real-time Communication)  
-- JWT Authentication  
-- RBAC Authorization  
-- Razorpay Integration  
 
 ### ☁️ Tools & Deployment
 <p>
@@ -55,22 +49,21 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
+### 🔗 Architecture & Integrations
+- REST APIs  
+- WebSocket (Real-time Communication)  
+- JWT Authentication  
+- RBAC Authorization  
+- Razorpay Integration  
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkatiyar31&theme=tokyonight&show_icons=true&hide_border=true" />
-</p>
-
+ 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ayushkatiyar31&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkatiyar31&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
+ 
 ---
 
 ## 🌐 Connect With Me
