@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=Full+Stack+Developer+(MERN);Building+Scalable+Web+Applications;REST+APIs+%7C+Real-time+Systems+%7C+Secure+Architecture" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=Full+Stack+Developer+(MERN);Designing+Scalable+Web+Applications;REST+APIs+%7C+Real-time+Systems+%7C+Secure+Architecture" 
   />
 </p>
 
